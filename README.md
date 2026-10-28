@@ -3,7 +3,7 @@
 ## Libreria Animate.css
 Link: https://animate.style/
 
-## Descripción libreria: Animate.css
+## Descripción libreria
 Es de código abierto y está escrita en CSS para ofrecer animaciones que ya estàn listas para usar 
 
 ## Utilidades
