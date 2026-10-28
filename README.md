@@ -8,7 +8,7 @@ Es de código abierto y está escrita en CSS para ofrecer animaciones que ya est
 
 ## Utilidades
 
-Se pueden añadir de manera rápida y sencilla:
+Se pueden añadir de manera rápida y sencilla en:
 
 * textos
 * botones 
@@ -17,5 +17,5 @@ Se pueden añadir de manera rápida y sencilla:
 
 ## Beneficio
 
-No hay necesidad de escribir código de animación complejo desde cero
+No hay necesidad de escribir código de animación complejo desde cero. Ya hay animaciones listas para usar 
 
