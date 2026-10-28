@@ -4,7 +4,7 @@
 Link: https://animate.style/
 
 ## Descripción libreria
-Es de código abierto y está escrita en CSS para ofrecer animaciones que ya estàn listas para usar 
+Es de código abierto y está escrita en CSS para ofrecer animaciones que ya están listas para usar 
 
 ## Utilidades
 
